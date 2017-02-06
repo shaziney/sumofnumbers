@@ -3,7 +3,7 @@
  * http://courses.ics.hawaii.edu/ics314s17/morea/coding-standards/experience-five-problems-1.html
  * Created by shaziney on 2/5/17.
  * Attempt: 1
- * Time: 24:46
+ * Time: 26:09, DNF
  */
 
 
